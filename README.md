@@ -1,2 +1,4 @@
 # HousingExploratoryAnalysisOfGeolocationalData
-Machine Learning project that uses K Means Algorithm to predict the best housing place for hostel students in and around the University in the city.
+Machine Learning project involves the use of K-Means Clustering to find the best accommodation for 
+students in a city, by classifying accommodation for incoming students on the basis of their 
+preferences on amenities, budget and proximity to the location
